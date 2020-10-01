@@ -5,7 +5,21 @@ ion-title{
   color: rgb(201, 198, 198) ;
   font-family: Edwardian Script ITC;
 }
-#icon{
-   font-size: 50pt;
-  color: rgb(201, 198, 198) ;
+ion-text{
+  color:cornflowerblue;
+  text-align: center;
+  font-family: Algerian ;
 }
+img{
+  width: auto;
+  height:auto;
+}
+ion-card-title{
+  font-family: Edwardian Script ITC;
+  font-size: 30pt;
+  color: rgba(104, 87, 13, 0.692);
+}
+ion-card-content {
+  font-family: Harlow Solid Italic;
+  color:blue;
+  }
